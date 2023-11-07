@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  margin: 0 auto;
+  width: 500px;
+}
+
+.loading {
+  margin: 20px;
+  text-align: center;
+}
+
+.error {
+  color: red;
+  margin: 20px;
+}
+
+.location-info {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
